@@ -1,0 +1,6 @@
+{
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1,
+    "python.pythonPath": "C:\\Program Files\\Python39\\python.exe"
+}
